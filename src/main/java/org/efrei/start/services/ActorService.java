@@ -1,7 +1,6 @@
 package org.efrei.start.services;
 
 import org.efrei.start.dto.CreateActor;
-import org.efrei.start.dto.CreateMovie;
 import org.efrei.start.models.Actor;
 import org.efrei.start.models.Movie;
 import org.efrei.start.repositories.ActorRepository;

@@ -1,6 +1,5 @@
 package org.efrei.start.dto;
 
-import org.efrei.start.models.Movie;
 
 public class CreateNote {
     private String details;

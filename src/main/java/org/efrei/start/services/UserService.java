@@ -39,6 +39,7 @@ public class UserService {
 
         // SUPPRIME LES AUTRES VALEURS , A MODIFIER POUR SAUVEGARDER LE TOUT
         user.setSee(movies);
+
         repository.save(user);
     }
 

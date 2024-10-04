@@ -2,11 +2,8 @@ package org.efrei.start.controllers;
 
 
 
-import org.efrei.start.dto.CreateMovie;
 import org.efrei.start.dto.CreateUser;
-import org.efrei.start.models.Movie;
 import org.efrei.start.models.User;
-import org.efrei.start.services.ActorService;
 import org.efrei.start.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

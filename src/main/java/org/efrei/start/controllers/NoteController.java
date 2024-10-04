@@ -1,11 +1,8 @@
 package org.efrei.start.controllers;
 
-import org.efrei.start.dto.CreateActor;
 import org.efrei.start.dto.CreateNote;
-import org.efrei.start.models.Actor;
 import org.efrei.start.models.Note;
 import org.efrei.start.services.NoteService;
-import org.efrei.start.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
